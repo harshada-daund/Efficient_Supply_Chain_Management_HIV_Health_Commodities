@@ -67,9 +67,9 @@ This project aims to optimize the supply chain for HIV health commodities, inclu
 
 ## 🛠️ Technologies Used
 
-- **Data Cleaning & Processing:** Python (Pandas, NumPy), PySpark, Tableau Prep
+- **Data Cleaning & Processing:** Python (Pandas, NumPy), PySpark
 - **Modeling:** Random Forest, Linear Regression, ANOVA, SMOTE
-- **Visualization:** Tableau, Matplotlib, Seaborn
+- **Visualization:** Matplotlib, Seaborn
 - **Data Source:** USAID Supply Chain Shipment Pricing Dataset
 
 ---
